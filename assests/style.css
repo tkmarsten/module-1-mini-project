@@ -43,8 +43,8 @@ header ul li {
   position: relative;
   height: 400px;
   width: 400px;
-  background-color: tan;
-  border: 20px solid brown;
+  background-color: #C78283;
+  border: 20px solid #744253;
   margin: 20px auto;
 }
 
@@ -52,8 +52,8 @@ header ul li {
   position: absolute;
   height: 340px;
   width: 340px;
-  background-color: teal;
-  border: 20px solid brown;
+  background-color: #B49286;
+  border: 20px solid #744253;
   top: 10px;
   left: 10px;
 }
@@ -62,8 +62,8 @@ header ul li {
   position: absolute;
   height: 250px;
   width: 250px;
-  background-color: black;
-  border: 20px solid orange;
+  background-color: #C78283;
+  border: 20px solid #744253;
   top: 25px;
   left: 25px;
 }
@@ -71,8 +71,8 @@ header ul li {
 #box-text {
   position: absolute;
   display: inline;
-  color: pink;
-  border: 5px solid grey;
+  color: black;
+  border: 5px solid #D7BEA8;
   top: 80px;
   left: 55px;
   width: 125px;
@@ -82,15 +82,15 @@ header ul li {
 #contact-section {
   height: 250px;
   color: white;
-  background-color: pink;
+  background-color: #F3D9DC;
   padding-top: 50px;
-  border-top: 5px solid salmon;
+  border-top: 5px solid #B49286;
 }
 
 #contact-form {
   display: inline-block;
   width: 400px;
-  border: 5px solid salmon;
+  border: 5px solid #B49286;
   border-radius: 10px;
   padding: 15px 0px;
   margin-top: 20px;
@@ -98,8 +98,8 @@ header ul li {
 
 footer {
   height: 50px;
-  background-color: teal;
-  border-bottom: 10px solid grey;
+  background-color: #744253;
+  border-bottom: 10px solid #B49286;
   color: white;
   padding-top: 25px;
 }
